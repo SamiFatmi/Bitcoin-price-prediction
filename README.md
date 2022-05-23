@@ -1,4 +1,3 @@
 # Forecasting-temperature-project
 
-
-## Intro (Sami)
+Introduction
