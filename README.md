@@ -1,4 +1,3 @@
 # Forecasting-temperature-project
 
 Introduction
-
